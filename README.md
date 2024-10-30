@@ -8,10 +8,10 @@ Questions:
 2. Trends for specific Justices (Readability effected by Justive/Chief Justice)
 3. Readability for high controversy/ low controversy
 4. People cite high readability/ low readability
-   Kolby ^
-5. Chief Justice and scores during their service
-6. Consenting vs Dissenting scores
-   Nathan ^
+Kolby ^
+6. Chief Justice and scores during their service
+7. Consenting vs Dissenting scores
+Nathan ^
 
 Data:
 Syllabus = Opening Statement
