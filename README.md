@@ -19,6 +19,7 @@ Syllabus = Opening Statement
 FRE =  Flesh-Reading-Ease, Higher the score, easier it is to read (100 = 5th Grade level, 10 is very hard)
 F-K = Flesh-Kincaid, Grade Level should be able to ready it (1 = 1st Grade)
 
+Define Controversal cases as those that have more than 2 dissenting Opinions.
 
 
 
