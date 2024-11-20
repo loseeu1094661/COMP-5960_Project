@@ -49,3 +49,20 @@ Optional Features. List the features which you consider to be nice to have, but 
 
 Project Schedule. Make sure that you plan your work so that you can avoid a big rush right before the final project deadline, and delegate different modules and responsibilities among your team members. Write this in terms of weekly deadlines.
 -Nathan
+
+
+
+KOLBY_____________________________________________________________________
+Find FRE/F-K reading scores of popular books, and average reading level per year for Americans to compare the justice scores to
+
+Finish work on the Justice reading score over time chart
+__________________________________________________________________________
+
+NATHAN____________________________________________________________________
+Heat map of justices (X) and Opinion Type (Y), and how their scores look, Dissenting vs Concurring
+__________________________________________________________________________
+
+20 Minutes to tell the story, what is interesting
+Show visualizations and interactions
+All team members talk
+Slides and Notebook are okay
